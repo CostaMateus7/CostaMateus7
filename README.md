@@ -34,7 +34,7 @@
 
 ----
 
-<h2>Confira meus 3 projetos principais</h2>
+<h2>✏ Confira meus 3 projetos principais</h2>
 <h3>Primeiro Projeto: Site para uma Concessionária</h3>
 <p> Esta é uma aplicação full stack que envolve todas as minhas stacks, do front ao back. Esse site possuí com uma página home, onde estão inseridos carros a venda por ordem de preço, com a imagem do carro, as descrições e os preços. Nesse site há um cadastro admnistrativo e um login com autenticação JWT e senha criptografada. Ao administrador é liberada uma página privada que possibilita registrar carros. Além dessa página de registros, tem também na página home a permissão do administrador fazer o logout e deletar os anúncios. <br/>
 
@@ -59,6 +59,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CostaMateus7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaMateus7&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+----
 
 <div align="center">
   
