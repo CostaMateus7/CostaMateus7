@@ -60,13 +60,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaMateus7&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-----
-
 <div align="center">
   
-  ![Snake animation](https://github.com/CostaMateus7/CostaMateus7/blob/output/github-contribution-grid-snake.svg)
-  ##
-  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CostaMateus7&repo=CostaMateus7&countColorcountColor)
-
+   ![Snake animation](https://github.com/CostaMateus7/CostaMateus7/blob/output/github-contribution-grid-snake.svg)
   
 </div>
