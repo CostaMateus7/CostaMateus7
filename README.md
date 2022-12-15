@@ -5,7 +5,7 @@
 ----
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 📚 Estudo desenvolvimento Web full stack há quase 1 ano pelas seguintes plataformas: ProgramadorBr, JStack, Udemy e Youtube.
+- 📚 Estudo desenvolvimento Web full stack há quase 1 ano e utilizo as seguintes plataformas: ProgramadorBr, JStack, Udemy, Devaria e Youtube.
 - 📘 Atualmente estou estudando **Typescript e Testes unitários**. 
 
 ----
