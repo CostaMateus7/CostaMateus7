@@ -62,5 +62,9 @@
 
 <div align="center">
   
+  ![Snake animation](https://github.com/maikoevangelista/CostaMateus7/blob/output/github-contribution-grid-snake.svg)
+  ##
+  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CostaMateus7&repo=CostaMateus7&countColorcountColor)
+
   
 </div>
