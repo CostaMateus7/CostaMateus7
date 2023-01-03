@@ -42,6 +42,8 @@
 <p> Esta é uma aplicação full stack que envolve todas as minhas stacks, do front ao back. Esse site possuí com uma página home, onde estão inseridos carros a venda por ordem de preço, com a imagem do carro, as descrições e os preços. Nesse site há um cadastro admnistrativo e um login com autenticação JWT e senha criptografada. Ao administrador é liberada uma página privada que possibilita registrar carros. Além dessa página de registros, tem também na página home a permissão do administrador fazer o logout e deletar os anúncios. <br/>
 
   - [Confira o vídeo de apresentação do projeto clicando aqui](https://drive.google.com/file/d/1WUpbcrDFcOGS5AJDujob0qLvYIYSXWp3/view?usp=sharing)
+  - [Repositório Client](https://github.com/CostaMateus7/concessionariaclient)
+  - [Repositório Server](https://github.com/CostaMateus7/concessionariaserver)
   
 <h3>Segundo Projeto: Um site para uma Financeira</h3>
 <p>Essa é uma plataforma financeira que possibilita o cadastro e login do usuário, sendo que a autenticação é JWT e a senha é criptografada. Nela o você tem uma página de usuário única que mostra o saldo (começa com R$1.000,00), um botão de logout e um link para realizar transferência. E as transferências podem ser realizadas somente entre usuários cadastrados. Por fim, a aplicação também permite a troca de tema persistida.</p>
