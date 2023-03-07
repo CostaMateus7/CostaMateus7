@@ -5,7 +5,7 @@
 ----
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 📚 Desenvolvo minhas habilidades utilizando as seguintes plataformas: ProgramadorBr, JStack, Udemy, Devaria e Youtube.
+- 📚 Desenvolvo minhas habilidades utilizando as seguintes plataformas: ProgramadorBr, JStack, Udemy e Youtube.
 - 📘 Atualmente estou estudando **Typescript e Material UI**. 
 
 ----
